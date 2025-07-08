@@ -23,13 +23,21 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 - SLAM-based navigation using ROS 2 Nav2
 - Robust operation in complex environments like hospital corridors and rooms
 - Dynamic obstacle detection (e.g. humans) with auto-stop and resume
-  <img width="1208" alt="image" src="https://github.com/user-attachments/assets/78600910-01f6-47b8-b5a9-ef424c857cca" />
+![project_map](https://github.com/user-attachments/assets/c08ac04a-3b43-425a-8c12-65a9a1e97ad2)
+![project_map_real_2](https://github.com/user-attachments/assets/47fe3ec7-21e5-4fe4-877c-a25964b2c0be)
+
 
 
 ### ✅ Object and Patient Detection
 - Real-time detection of medical items (Tylenol, bandages, etc.) using YOLOv8 and YOLOv11
+  ![250627_YOLO turn](https://github.com/user-attachments/assets/025b827b-0cea-40c9-8565-37c37f36c835)
+
 - Patient identification using ArUco markers and face detection
+  ![face](https://github.com/user-attachments/assets/c7c89e95-f906-4512-b23b-c57c82a9576b)
+
 - 3D localization via depth-based position estimation and TF2 transforms
+  ![250627_marker turn](https://github.com/user-attachments/assets/f3ea4790-9497-4c3c-9367-df301f5fd89a)
+
 
 ### ✅ Contactless Vital Sign Monitoring
 - rPPG-based estimation of heart rate, SpO2, and blood pressure
@@ -38,10 +46,14 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 ### ✅ Cloud-Based Robot Communication
 - MQTT messaging over EMQX Cloud for stable multi-robot coordination
 - Decentralized task assignment and rendezvous point logic
+  <img width="379" alt="image" src="https://github.com/user-attachments/assets/c6ff258c-b111-43d3-be72-e0dd564d2fff" />
+  
+
 
 ### ✅ Integrated GUI Control Panel
 - Real-time logistics requests and monitoring
 - Visual display of robot status, positions, and vital signs
+
 
 ---
 
