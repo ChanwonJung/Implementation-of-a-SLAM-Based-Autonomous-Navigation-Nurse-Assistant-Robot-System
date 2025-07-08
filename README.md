@@ -6,6 +6,15 @@ To address the excessive workload and burnout of nurses in hospital settings, we
 
 The system consists of **two TurtleBot4 robots** working cooperatively to perform logistics and patient interaction tasks across the **pharmacy and ward areas** in a hospital-like environment.
 
+### System Architecture
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/9201e11e-0466-4b7a-8aae-bde2ca33f71c" />
+
+### Node Architecture
+<img width="1177" alt="image" src="https://github.com/user-attachments/assets/a5c84d87-49c2-4d37-9e85-74c5bc908902" />
+
+### System flow
+<img width="393" alt="image" src="https://github.com/user-attachments/assets/0e439a5b-1d56-4238-9ec0-7aecfa4f4423" />
+
 ---
 
 ## 2. ⚙️ Features and Functionalities
@@ -14,6 +23,8 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 - SLAM-based navigation using ROS 2 Nav2
 - Robust operation in complex environments like hospital corridors and rooms
 - Dynamic obstacle detection (e.g. humans) with auto-stop and resume
+  <img width="1208" alt="image" src="https://github.com/user-attachments/assets/78600910-01f6-47b8-b5a9-ef424c857cca" />
+
 
 ### ✅ Object and Patient Detection
 - Real-time detection of medical items (Tylenol, bandages, etc.) using YOLOv8 and YOLOv11
@@ -44,6 +55,9 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 | **AI / Algorithms**| rPPG, Face Detection, KCF Tracker, CHROM, TF2 |
 | **Development Env.** | Ubuntu 22.04, Python3, RViz2, Roboflow |
 | **Collaboration** | GitHub, Google Docs, Presentation Tools |
+
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/82cc495a-b436-4a73-a29b-a479adc2bb34" />
+
 
 ---
 
