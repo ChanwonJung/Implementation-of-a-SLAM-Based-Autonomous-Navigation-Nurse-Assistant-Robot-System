@@ -32,12 +32,15 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 
 ### ✅ Object and Patient Detection
 - Real-time detection of medical items (Tylenol, bandages, etc.) using YOLOv8 and YOLOv11
+
   ![250627_YOLO turn](https://github.com/user-attachments/assets/025b827b-0cea-40c9-8565-37c37f36c835)
 
 - Patient identification using ArUco markers and face detection
+
   ![face](https://github.com/user-attachments/assets/c7c89e95-f906-4512-b23b-c57c82a9576b)
 
 - 3D localization via depth-based position estimation and TF2 transforms
+
   ![250627_marker turn](https://github.com/user-attachments/assets/f3ea4790-9497-4c3c-9367-df301f5fd89a)
 
 
