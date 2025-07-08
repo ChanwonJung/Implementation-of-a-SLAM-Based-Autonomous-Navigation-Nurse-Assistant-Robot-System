@@ -46,14 +46,17 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 
 ### ✅ Contactless Vital Sign Monitoring
 - rPPG-based estimation of heart rate, SpO2, and blood pressure
+
  < What is rPPG? >
+
 rPPG is a non-contact method for measuring vital signs using a standard RGB camera. Based on the principles of traditional PPG, it detects subtle changes in facial skin color caused by blood volume variations to estimate physiological signals.
 
-Remote and non-invasive heart rate monitoring
+  1. Remote and non-invasive heart rate monitoring
 
-Analyzes minute skin tone changes from facial video
+  2. Analyzes minute skin tone changes from facial video
 
-Can measure: heart rate, heart rate variability (HRV), oxygen saturation, respiratory rate, stress levels, blood pressure, and skin temperature
+  3. Can measure: heart rate, heart rate variability (HRV), oxygen saturation, respiratory rate, stress levels, blood pressure, and skin temperature
+
 - Integrated with face tracking and signal enhancement filters
 
 [Comparison of rPPG-based Oxygen Saturation Measurement Performance by Face Area with Simple Signal Processing.pdf](https://github.com/user-attachments/files/21120109/Comparison.of.rPPG-based.Oxygen.Saturation.Measurement.Performance.by.Face.Area.with.Simple.Signal.Processing.pdf)
