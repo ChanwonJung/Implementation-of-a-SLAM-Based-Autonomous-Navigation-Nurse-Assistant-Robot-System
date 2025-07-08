@@ -50,6 +50,7 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 
 ### ✅ Cloud-Based Robot Communication
 - MQTT messaging over EMQX Cloud for stable multi-robot coordination
+
   <img width="379" alt="image" src="https://github.com/user-attachments/assets/c6ff258c-b111-43d3-be72-e0dd564d2fff" />
 - Decentralized task assignment and rendezvous point logic(Using amcl_pose/pose/position/x,y topic)
 ![녹음 2025-07-08 194028](https://github.com/user-attachments/assets/c9592713-b85c-4ec3-b4cc-932662d9f80e)
