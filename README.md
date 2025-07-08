@@ -23,6 +23,7 @@ The system consists of **two TurtleBot4 robots** working cooperatively to perfor
 - SLAM-based navigation using ROS 2 Nav2
 - Robust operation in complex environments like hospital corridors and rooms
 - Dynamic obstacle detection (e.g. humans) with auto-stop and resume
+  
 ![project_map](https://github.com/user-attachments/assets/c08ac04a-3b43-425a-8c12-65a9a1e97ad2)
 ![project_map_real_2](https://github.com/user-attachments/assets/47fe3ec7-21e5-4fe4-877c-a25964b2c0be)
 
